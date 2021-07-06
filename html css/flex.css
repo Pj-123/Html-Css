@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    display: flex;
+    background-color: red;
+    width: 100%;
+    height: 100vh;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+
+
+
+}
+#child1{
+    height:10vh;
+    width: 20%;
+    background-color: blue;
+
+}
+#child2{
+    height:10vh;
+    width: 20%;
+    background-color:white;
+}
+#child3{
+    height:10vh;
+    width: 20%;
+    background-color:green;
+}
+#child4{
+    height:10vh;
+    width: 20%;
+    background-color:goldenrod;
+}
+/* #child5{
+    height:10vh;
+    width: 20%;
+    background-color:pink;
+
+} */
+/* #child6{
+    height:10vh;
+    width: 20%;
+    background-color:orange;
+    
+    
+} */

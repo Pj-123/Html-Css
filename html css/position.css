@@ -1,0 +1,61 @@
+h1{
+    color: red;
+}
+#neww{
+    color: red;
+    background-color: blue;
+    width: 50%;
+    height: 50vh;
+}
+.again{
+    text-align: center;
+    color: red;
+    width:50%;
+    height: 50vh;
+    background-color: blue;
+    border: 5px dashed black;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#pratik{
+    background-color: red;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+#a{
+    background-color: white;
+    position: absolute;
+    left: 0;
+    width: 20%;
+    height: 20vh;
+    padding: 
+    
+}
+#b{
+    background-color:orange;
+    position: absolute;
+    right: 0;
+    width: 20%;
+    height: 20vh;
+
+
+}
+#c{
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 20%;
+    height: 20vh;
+}
+#d{
+    background-color: black;
+    position: absolute;
+    width: 20%;
+    height: 20vh;
+    bottom:0;
+    right: 0;
+}
